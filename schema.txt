@@ -1,0 +1,14 @@
+Schema/structure of HashTable's data: Array of either None or an array of key-value pairs.
+Example:
+[
+    None,
+    None,
+    [
+        [key, value],
+        [key, value]
+    ],
+    [
+        [key, value]
+    ]
+    None
+]
