@@ -1,4 +1,4 @@
-# Documentation
+# HashTable Documentation
 ## Getting Started
 ```py
 from HashTable import HashTable
